@@ -9,9 +9,9 @@ app = FastAPI()
 
 students = {
   1 : {
-
-    "name": "Latika",
-    "address":"Pune",
+    "name": "Thamke Latika",
+    "address":"Nanded",
+ 
     "age" : 27,
     "city" : "akoal"
   }
